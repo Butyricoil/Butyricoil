@@ -4,6 +4,10 @@
   <a href="https://t.me/kokobeeline" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%2300BFFF?logo=Telegram&logoColor=white" alt="Telegram">
   </a>
+  <a href="https://www.linkedin.com/in/%D0%B0%D1%80%D1%82%D1%91%D0%BC-%D0%BA%D0%BE%D0%BA%D0%BE%D0%B1%D0%B5%D0%BB%D1%8F%D0%BD-742b1031b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=LinkedIn&logoColor=white" alt="LinkedIn">
+</a>
+
 </div>
 
 <h2 align="center">🛠️ Languages and Tools:</h2>
