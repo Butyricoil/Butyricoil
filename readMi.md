@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://shikimori.me/ваш_ник" target="_blank">
+  <a href="https://shikimori.me/Butyricoil" target="_blank">
     <img src="https://img.shields.io/badge/Shikimori-%23800080?logo=Logo" alt="Shikimori">
   </a>
-  <a href="https://vk.com/ваш_ник" target="_blank">
+  <a href="https://vk.com/titochnoeblan" target="_blank">
     <img src="https://img.shields.io/badge/Вконтакте-%230000FF?logo=Logo" alt="Вконтакте">
   </a>
-  <a href="https://t.me/ваш_ник" target="_blank">
+  <a href="https://t.me/kokobeeline" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%2300BFFF?logo=Logo" alt="Telegram">
   </a>
 </div>
@@ -33,7 +33,7 @@
 </p>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ваш_ник&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Butyricoil&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ваш_ник&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Butyricoil&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /> 
 </div>
 
 <div align="center">
@@ -49,7 +49,7 @@
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ваш_ник&&theme=tokyonight" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Butyricoil&&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -62,8 +62,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ваш_ник&style=flat-square&color=blueviolet" alt="">
-  <img src="https://img.shields.io/github/followers/ваш_ник?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /> 
+  <img src="https://komarev.com/ghpvc/?username=Butyricoil&style=flat-square&color=blueviolet" alt="">
+  <img src="https://img.shields.io/github/followers/Butyricoil?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /> 
 </p>
 
-![codewars](https://www.codewars.com/users/ваш_ник/badges/large)
+![codewars](https://www.codewars.com/users/Butyricoil/badges/large)
