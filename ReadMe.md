@@ -64,4 +64,3 @@
   <img src="https://img.shields.io/github/followers/Butyricoil?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /> 
 </p>
 
-![codewars](https://www.codewars.com/users/Butyricoil/badges/large)
