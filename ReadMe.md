@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://shikimori.me/Butyricoil" target="_blank">
-    <img src="https://img.shields.io/badge/Shikimori-%23800080?logo=Logo" alt="Shikimori">
-  </a>
+
   <a href="https://vk.com/titochnoeblan" target="_blank">
     <img src="https://img.shields.io/badge/Вконтакте-%230000FF?logo=Logo" alt="Вконтакте">
   </a>
