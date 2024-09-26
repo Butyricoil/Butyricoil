@@ -1,8 +1,5 @@
 <div align="center">
 
-  <a href="https://vk.com/titochnoeblan" target="_blank">
-    <img src="https://img.shields.io/badge/Вконтакте-%230000FF?logo=Logo" alt="Вконтакте">
-  </a>
   <a href="https://t.me/kokobeeline" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%2300BFFF?logo=Logo" alt="Telegram">
   </a>
