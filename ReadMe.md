@@ -47,12 +47,6 @@
   </a>
 </p>
 
-<div align="center">
-  <h2>📊 Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Butyricoil&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Butyricoil&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Butyricoil&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 <div align="center">
   <h2>🙏 Thanks for visiting!</h2>
