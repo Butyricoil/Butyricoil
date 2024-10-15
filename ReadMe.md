@@ -52,7 +52,7 @@
 
 ![Snake](https://github.com/Butyricoil/Butyricoil/blob/output/github-contribution-grid-snake.svg)
 
- <img src="https://Butyricoil.github.io/my-repo/dist/github-contribution-grid-snake.svg" alt="Сгенерированное изображение">
+
 
 
 
