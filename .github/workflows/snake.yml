@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 * * * *" # каждый час
+    - cron: "0 * * * *" # Каждый час
   workflow_dispatch:
 
 jobs:
@@ -15,13 +15,13 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Butyricoil
+          github_user_name: "Butyricoil"  # Ваше имя пользователя на GitHub
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
       - name: Upload results
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3  # Обновленная версия
         with:
           name: github-contribution-grid-snake
           path: dist/*
