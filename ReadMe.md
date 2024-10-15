@@ -41,7 +41,7 @@
   <img src="https://leetcard.jacoblin.cool/hhIfDwGlKS?ext=heatmap" alt="LeetCard Heatmap"/>
 </p>
 
-![snake gif](https://github.com/Butyricoil/Butyricoil/blob/output/github-contribution-grid-snake.gif)
+![Snake](https://github.com/Butyricoil/Butyricoil/blob/output/github-contribution-grid-snake.svg)
 
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
