@@ -41,9 +41,12 @@
   <img src="https://leetcard.jacoblin.cool/hhIfDwGlKS?ext=heatmap" alt="LeetCard Heatmap"/>
 </p>
 
-![Snake](https://github.com/Butyricoil/Butyricoil/blob/output/github-contribution-grid-snake.svg)
 
 
+![Snake](https://raw.githubusercontent.com/Butyricoil/Butyricoil/main/dist/github-contribution-grid-snake-dark.svg)
+
+
+ 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
   <h2>Alert information☢️</h2>
   <a href="https://readme-jokes.vercel.app">
