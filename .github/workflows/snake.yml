@@ -20,8 +20,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
-      - name: Upload results
-        uses: actions/upload-artifact@v3  # Обновленная версия
+      - name: Upload results to dist
+        uses: actions/upload-artifact@v3
         with:
           name: github-contribution-grid-snake
           path: dist/*
