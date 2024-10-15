@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>👋 Hello, I'm Butyricoil</h1>
+  <h1> Hello, I'm Butyricoil👋</h1>
   
 
-<h2 align="center">🛠️ Languages and tools i use:</h2>
+<h2 align="center">Languages and tools i use🛠️ :</h2>
 <p align="center">
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
@@ -43,7 +43,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <h2>Alert information!!!</h2>
+  <h2>Alert information☢️</h2>
   <a href="https://readme-jokes.vercel.app">
     <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
   </a>
