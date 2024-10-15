@@ -37,6 +37,12 @@
 </p>
 
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/hhIfDwGlKS?ext=heatmap" alt="LeetCard Heatmap"/>
+</p>
+
+
+
 
 <div align="center">
   <img src="https://github.com/khrome/ansi-gif/blob/HEAD/Samples/nyan.gif?raw=true" />
