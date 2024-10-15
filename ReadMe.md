@@ -42,7 +42,8 @@
   <img src="https://github.com/khrome/ansi-gif/blob/HEAD/Samples/nyan.gif?raw=true" />
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <h2>Alert information!!!</h2>
   <a href="https://readme-jokes.vercel.app">
     <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
   </a>
