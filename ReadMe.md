@@ -1,6 +1,10 @@
 <div align="center">
   <h1> Hello, I'm Butyricoil👋</h1>
-  
+
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello, world!;I'qm+AM)](https://git.io/typing-svg)
+
+
 
 <h2 align="center">Languages and tools i use🛠️ :</h2>
 <p align="center">
