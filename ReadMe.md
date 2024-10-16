@@ -6,8 +6,6 @@
 <h2 align="center">Languages and tools i use🛠️ :</h2>
 
 
-
-
 <p align="center">
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40" />
@@ -43,6 +41,7 @@
 
 
 
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/hhIfDwGlKS?ext=heatmap" alt="LeetCard Heatmap"/>
 </p>
@@ -50,22 +49,7 @@
 
 
 
-
-
-
-
-
-
 ![Snake animation](https://github.com/Butyricoil/Butyricoil/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
-
-
-
 
 
 
@@ -95,10 +79,13 @@
 </div>
 
 
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Butyricoil&style=flat-square&color=blueviolet" alt="">
   <img src="https://img.shields.io/github/followers/Butyricoil?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </p>
+
 
 
 
