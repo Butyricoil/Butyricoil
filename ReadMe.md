@@ -92,5 +92,5 @@
 
 
 
-  <h2>🙏 Thanks for visiting!</h2>
+  <h2> Thanks for visiting!🙏</h2>
 </div>
