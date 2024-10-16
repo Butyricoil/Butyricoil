@@ -69,31 +69,28 @@
 
 
 
-<p>My contacts</p>
-  <div>
+<div align="center">
+  <p>My contacts</p>
+  <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://t.me/kokobeeline" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-%2300BFFF?logo=Telegram&logoColor=white" alt="Telegram">
     </a>
-    <a href="mailto:artyomkokobelyanwork@gmail.com" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: black;">
+    <a href="mailto:artyomkokobelyanwork@gmail.com" target="_blank">
       <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" alt="Gmail Logo" style="width: 65px; height: 21px;">
     </a>
     <a href="https://www.linkedin.com/in/%D0%B0%D1%80%D1%82%D91%D0%BC-%D0%BA%D0%BE%D0%BA%D0%BE%D0%B1%D0%B5%D0%BB%D1%8F%D0%BD-742b1031b/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=LinkedIn&logoColor=white" alt="LinkedIn">
     </a>
   </div>
-</div>
 
 
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Butyricoil&style=flat-square&color=blueviolet" alt="">
-  <img src="https://img.shields.io/github/followers/Butyricoil?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</p>
-
+  <p align="center" style="margin: 10px 0;">
+    <img src="https://komarev.com/ghpvc/?username=Butyricoil&style=flat-square&color=blueviolet" alt="">
+    <img src="https://img.shields.io/github/followers/Butyricoil?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  </p>
 
 
 
-<div align="center">
   <h2>🙏 Thanks for visiting!</h2>
 </div>
