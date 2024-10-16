@@ -42,18 +42,18 @@
 
 
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/hhIfDwGlKS?ext=heatmap" alt="LeetCard Heatmap"/>
-</p>
-
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Butyricoil/Butyricoil/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Butyricoil/Butyricoil/output/github-contribution-grid-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Butyricoil/Butyricoil/output/github-contribution-grid-snake.svg" />
 </picture>
+
+
+
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/hhIfDwGlKS?ext=heatmap" alt="LeetCard Heatmap"/>
+</p>
 
 
 
