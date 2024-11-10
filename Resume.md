@@ -31,7 +31,7 @@
 
 ---
 
-- ## 📜 Certifications
+- ##  Certifications
 	- **AWS Certified Solutions Architect** - Amazon Web Services
 	- **Oracle Certified Java Programmer** - Oracle
 
