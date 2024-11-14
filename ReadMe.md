@@ -3,7 +3,7 @@
 </h1>
 
 
-<h2 align="center">Languages and tools i use🛠️ :</h2>
+<h2 align="center">Tools🛠️ :</h2>
 
 
 <p align="center">
