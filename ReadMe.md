@@ -2,39 +2,74 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Cogito,+ergo+sum;I+think,+therefore+I+am;A.M.+🤖"/>
 </h1>
 
-
 <h2 align="center">Tools🛠️ :</h2>
 
-
 <p align="center">
+  <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40" />
   </a>
+  <!-- Bash -->
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40" />
   </a>
+  <!-- Vim -->
   <a href="https://www.vim.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="40" height="40" />
   </a>
-<a href="https://developer.android.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40" />
-</a>
+  <!-- Android -->
+  <a href="https://developer.android.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40" />
+  </a>
+  <!-- C# -->
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40" />
   </a>
+  <!-- Unity -->
   <a href="https://unity.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="40" height="40" />
   </a>
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
   </a>
+  <!-- PowerShell -->
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
     <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="40" height="40" />
   </a>
+  <!-- ASP.NET -->
+  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dotnet" alt="ASP.NET" width="40" height="40" />
+  </a>
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" />
+  </a>
+  <!-- Kubernetes -->
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40" />
+  </a>
+  <!-- Nginx -->
+  <a href="https://nginx.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="40" height="40" />
+  </a>
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" />
+  </a>
+  <!-- RabbitMQ -->
+  <a href="https://www.rabbitmq.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40" />
+  </a>
+  <!-- Redis -->
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40" />
+  </a>
+  <!-- Microsoft -->
+  <a href="https://www.microsoft.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=microsoft" alt="Microsoft" width="40" height="40" />
+  </a>
 </p>
-
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Butyricoil/Butyricoil/output/github-contribution-grid-snake-dark.svg" />
@@ -42,16 +77,9 @@
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Butyricoil/Butyricoil/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
-
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ButyricOil?ext=heatmap" alt="LeetCard Heatmap"/>
 </p>
-
-
-
-
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
   <h2>Alert information☢️</h2>
@@ -59,9 +87,6 @@
     <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
   </a>
 </div>
-
-
-
 
 <div align="center">
   <p>My contacts</p>
@@ -77,14 +102,10 @@
     </a>
   </div>
 
-
-
   <p align="center" style="margin: 10px 0;">
     <img src="https://komarev.com/ghpvc/?username=Butyricoil&style=flat-square&color=blueviolet" alt="">
     <img src="https://img.shields.io/github/followers/Butyricoil?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
   </p>
-
-
 
   <h2> Thanks for visiting!🙏</h2>
 </div>
