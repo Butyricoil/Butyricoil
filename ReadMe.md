@@ -17,25 +17,13 @@
   <a href="https://www.vim.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="40" height="40" />
   </a>
-  <!-- Android -->
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40" />
-  </a>
   <!-- C# -->
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40" />
   </a>
-  <!-- Unity -->
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="40" height="40" />
-  </a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
-  </a>
-  <!-- PowerShell -->
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="40" height="40" />
   </a>
   <!-- ASP.NET -->
   <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank">
@@ -109,3 +97,4 @@
 
   <h2> Thanks for visiting!🙏</h2>
 </div>
+
